@@ -1,1 +1,5 @@
-# DIPT_12_PROJECT-Face-Detection-with-Haar-Cascades
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 
+
+## EX. No. 12 : PROJECT- FACE DETECTION WITH HAAR CASCADES
